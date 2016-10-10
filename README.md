@@ -4,7 +4,7 @@
 
 Create and manage tmux sessions easily.
 
-![Screenshot](https://f.cloud.github.com/assets/141213/916084/065fef7c-fe82-11e2-9c23-a9622c7d83c3.png)
+![Screenshot](tmuxinator.gif)
 
 ## Installation
 
